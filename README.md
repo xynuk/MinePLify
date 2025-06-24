@@ -67,7 +67,9 @@ pip install requests
 
 ## 🧑‍💻 Licencja
 
+Kod został wygenerowany przez ai, wprowadziłem lekkie zmiany.
+
 Projekt: **MinePLify**  
-Licencja: MIT
+Licencja: **MIT**
 
 ---
