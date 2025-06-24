@@ -73,3 +73,7 @@ Projekt: **MinePLify**
 Licencja: **MIT**
 
 ---
+
+zrobilem workflow ktore builduje to do exe, zapomnialem ze nie ma tam klucza do api
+
+---
